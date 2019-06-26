@@ -1,6 +1,6 @@
 const mongodb = require('mongodb');
 
-const { MongoClient, ObjectId } = mongodb;
+const { MongoClient } = mongodb;
 
 let _client; // eslint-disable-line no-underscore-dangle
 
