@@ -1,6 +1,6 @@
 {
   "name": "quick-mongodb-node",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "src/index.js",
   "author": "Fabien JUIF <fabien.juif@gmail.com>",
   "license": "MIT",
