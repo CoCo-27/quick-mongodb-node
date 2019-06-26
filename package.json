@@ -18,6 +18,13 @@
     "eslint-plugin-import": "^2.14.0",
     "jest": "^24.8.0"
   },
+  "keywords": [
+    "mongo",
+    "mongodb",
+    "node",
+    "layer",
+    "simplify"
+  ],
   "eslintConfig": {
     "extends": "airbnb-base",
     "rules": {
